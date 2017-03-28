@@ -10,7 +10,7 @@ import com.client.Client;
 
 /**
  * A utility used by the UnitTests
- * @author Shahram Ghandeharizadeh
+ * @author Shahram Ghandeharizaden
  *
  */
 
