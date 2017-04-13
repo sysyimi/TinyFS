@@ -1,4 +1,4 @@
-package UnitTests_2;
+package UnitTests;
 
 import java.io.File;
 import java.io.IOException;
